@@ -6,6 +6,8 @@ This project was made for a company "Rent4Wheels". The purpose of this project w
 
 Following are few samples of the project. 
 
+Home Page: 
+
 <div align="center">
   <img src="images/home.png" width="550" >
 </div>
@@ -13,4 +15,30 @@ Following are few samples of the project.
 <br>
 <br>
 
+Login Page: 
+
+<div align="center">
+  <img src="images/login.png" width="550" >
+</div>
+
+<br>
+<br>
+
+Cars Page: 
+
+<div align="center">
+  <img src="images/cars.png" width="550" >
+</div>
+
+<br>
+<br>
+
+Contact Page: 
+
+<div align="center">
+  <img src="images/contact.png" width="550" >
+</div>
+
+<br>
+<br>
 
