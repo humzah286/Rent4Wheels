@@ -62,3 +62,15 @@ Car view Page:
 
 <br>
 <br>
+
+Checkout Page: 
+
+<div align="center">
+  <img src="images/checkout.png" width="550" >
+</div>
+<div align="center">
+  <img src="images/checkout2.png" width="550" >
+</div>
+
+<br>
+<br>
