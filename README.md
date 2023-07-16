@@ -42,3 +42,23 @@ Contact Page:
 <br>
 <br>
 
+Categories Page: 
+
+<div align="center">
+  <img src="images/categories.png" width="550" >
+</div>
+
+<br>
+<br>
+
+Car view Page: 
+
+<div align="center">
+  <img src="images/carview1.png" width="550" >
+</div>
+<div align="center">
+  <img src="images/carview2.png" width="550" >
+</div>
+
+<br>
+<br>
